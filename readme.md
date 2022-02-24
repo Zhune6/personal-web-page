@@ -4,3 +4,5 @@ My bio: [link](bio.md)
 
 just playing around now, taking the oportunity to make a cheatsheet in the process
 Cheatsheet (so far): [link](Cheatsheet.md)
+
+testing after class of 23/2, changed ssh key because of gitlab
